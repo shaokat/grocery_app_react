@@ -1,0 +1,45 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": false,
+      "item": "Almonds, Unsalted, in the blue bag"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Pizza"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Bread"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "new item"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "chocolate"
+    },
+    {
+      "myNewItem": {
+        "id": 7,
+        "checked": false,
+        "item": "rmenedvi"
+      },
+      "id": 7
+    },
+    {
+      "id": 10,
+      "checked": true,
+      "item": "new item"
+    }
+  ]
+}
